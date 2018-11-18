@@ -3,3 +3,5 @@ Project Files/
 
 #Ignore Jupyter files
 .ipynb_checkpoints
+
+mnist-dataset.ipynb
