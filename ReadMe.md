@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Emerging Technologies Project 2018
 
 ## Introduction
@@ -107,5 +106,3 @@ you need to know about the script , running it, usage & results obtained from ru
 or you can use any python environment compiler.
 - 3.Testing the classifier: Run the script called digitrec.py in order to test the classifier.
 > python digitrec.py
-
->>>>>>> 079ee31f02566304bec29943e690824d4581b543
